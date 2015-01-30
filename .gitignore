@@ -1,0 +1,7 @@
+Bin
+*.suo
+*.csproj.user
+*.vcxproj.user
+*.DotSettings.user
+*.sdf
+*.opensdf
